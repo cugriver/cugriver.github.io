@@ -1,0 +1,52 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#container{
+    width: 800px;
+    height: 1000px;
+}
+#header{
+    margin-top: 5px;
+    width: 800px;
+    height: 60px;
+    background-image: url(../image/menu.jpg);
+    border:2px solid #00ff00;
+}
+.header_menu{
+    margin-top: 20px;
+    border: 2px solid #ff0000;
+    margin-bottom:10px;
+    text-align: right;
+}
+.header_menu_content{
+    font-family: "宋体";
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+}
+#content{
+    margin-top:5px;
+    margin-bottom:5px;
+    width: 800px;
+    height: 860px;
+    border: 2px solid #555;
+    border-radius: 10px;
+}
+#footer{
+    width: 800px;
+    height: 60px;
+    background: #000000;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    clear: both;;
+}
+.footer_content{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+
